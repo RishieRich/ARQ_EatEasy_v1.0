@@ -1,5 +1,7 @@
 # AI Waiter Prototype (Indian Restaurant)
 
+![AI Waiter Concept](assets/ai_waiter_concept.png)
+
 This project is a prototype for an AI-powered smart waiter system. It takes customer natural language orders (e.g., "I want something spicy and creamy") along with structured preferences (Diet, Allergies) and generates a precise, kitchen-ready ticket for the chef using the Groq LLM.
 
 ## Features
